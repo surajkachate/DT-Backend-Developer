@@ -1,5 +1,5 @@
 # DT-Backend-Developer
-Create API with GET, POST, PUT, DELETE methods in Python-Flask
+Created API with GET, POST, PUT, DELETE methods in Python-Flask
 
 TASK 1:
 
