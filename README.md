@@ -1,7 +1,13 @@
 # DT-Backend-Developer
 Created API with GET, POST, PUT, DELETE methods in Python-Flask
 
+Task 2:
+I have attached my task 2 completion link here:
+https://docs.google.com/spreadsheets/d/1IQ8IWD-g2hYgc9OAJ9cHLO6r_NbZxVF8NtJF3oupOsk/edit#gid=723801153
+
 TASK 1:
+I have attached my task 1 completion link here:
+https://github.com/surajkachate/DT-Backend-Developer
 
 DT Backend Developer task 1 based on the below documentation:
 
